@@ -1,0 +1,49 @@
+body{
+	background: #000000;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #434343, #000000);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #434343, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+h1{
+	font-size: 64px;
+	font-family: 'Allison', cursive;
+	color: white;
+	text-shadow: 
+	0 0 4px #ff0000,
+	0 0 8px #ff0000,
+	0 0 16px #ff0000,
+	0 0 32px #ff0000,
+	0 0 64px #ff0000,
+	0 0 128px #ff0000;
+}
+div{
+	width: 750px;
+	height: 777px;
+	border: 6px solid #ff0000;
+	border-radius: 32px;
+	color: white;
+}
+.box{
+	box-shadow: 
+	0 0 500px #15f4ee,
+	0 0 45px #ff00ac,
+	0 0 67px #ff00ac,
+	0 0 78px #ff00ac,
+	0 0 64px #15f4ee,
+	0 0 128px #15f4ee;
+}
+p{
+	font-size: 35px;
+	text-shadow: 
+	0 0 4px #ff0000,
+	0 0 8px #ff0000,
+	0 0 16px #ff0000,
+	0 0 32px #ff0000,
+	0 0 64px #ff0000,
+	0 0 128px #ff0000;
+	font-family: 'Pacifico', cursive;
+}
+.yt{
+	font-size: 50px;
+	color: white;
+	font-family: 'Allison', cursive
